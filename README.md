@@ -1,5 +1,6 @@
 ### Hi there 👋
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=lu1um&show_icons=true&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lu1um&layout=compact&theme=tokyonight)
 
 <!--
 **lu1um/lu1um** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
