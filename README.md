@@ -1,5 +1,6 @@
-### Hi there 👋
+### Hi, I'm lu1um 👋
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=lu1um&show_icons=true&theme=tokyonight)
+<br>
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lu1um&layout=compact&theme=tokyonight)
 
 <!--
